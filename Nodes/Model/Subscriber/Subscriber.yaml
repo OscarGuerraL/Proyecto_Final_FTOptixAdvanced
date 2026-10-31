@@ -1,0 +1,7 @@
+Name: Subscriber
+Id: g=1cd4ceb8a8d5630efbe6a239ee6a5b85
+Type: FolderType
+Children:
+- Name: TankLevel
+  Type: BaseDataVariableType
+  DataType: Int32

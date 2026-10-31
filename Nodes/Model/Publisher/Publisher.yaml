@@ -1,0 +1,8 @@
+Name: Publisher
+Id: g=936977c0a162db1430ab0db2a917c487
+Type: FolderType
+Children:
+- Name: TankLevel
+  Id: g=7396ad751cbc167472a964452123bdce
+  Type: BaseDataVariableType
+  DataType: Int32
